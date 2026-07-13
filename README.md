@@ -15,7 +15,7 @@ Eski sürümlerde karşılaşılan bağımlılık hataları (silinmiş repolar) 
 
 Projeyi bilgisayarınıza indirdikten sonra, çalıştırmak oldukça basittir:
 
-1. Klasörün içerisindeki **`webui-user.bat`** isimli dosyaya çift tıklayın.
+1. Klasörün içerisindeki **`baslat.bat`** isimli dosyaya çift tıklayın.
 2. Siyah bir komut ekranı (terminal) açılacaktır. Sistem, eğer daha önce inmediyse ilk açılışta gerekli olan ana yapay zeka modelini (yaklaşık 4 GB) indirecektir.
 3. Terminalde kurulum ve yükleme işlemleri bittikten sonra en alt satırda şöyle bir ibare göreceksiniz:
    `Running on local URL:  http://127.0.0.1:7860`
