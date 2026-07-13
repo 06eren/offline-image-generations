@@ -1,0 +1,1039 @@
+{
+    "txt2img": "Metinden Görsel",
+    "img2img": "Görselden Görsel",
+    "Extras": "Ekstralar",
+    "PNG Info": "PNG Bilgisi",
+    "Checkpoint Merger": "Model Birleştirici",
+    "Train": "Eğit",
+    "Settings": "Ayarlar",
+    "Extensions": "Uzantılar",
+
+    "Generate": "Oluştur",
+    "Interrupt": "Durdur",
+    "Skip": "Atla",
+    "Save": "Kaydet",
+    "Paste": "Yapıştır",
+    "Read": "Oku",
+    "Delete": "Sil",
+    "Edit": "Düzenle",
+    "Refresh": "Yenile",
+    "Load": "Yükle",
+    "Unload": "Kaldır",
+    "Apply": "Uygula",
+    "Reset": "Sıfırla",
+    "Search": "Ara",
+    "Close": "Kapat",
+    "Cancel": "İptal",
+    "Continue": "Devam Et",
+    "Download": "İndir",
+    "Upload": "Yükle",
+    "Copy": "Kopyala",
+    "Open": "Aç",
+    "Create": "Oluştur",
+    "Remove": "Kaldır",
+    "Add": "Ekle",
+    "Submit": "Gönder",
+    "OK": "Tamam",
+    "Yes": "Evet",
+    "No": "Hayır",
+    "None": "Yok",
+    "All": "Tümü",
+    "Default": "Varsayılan",
+
+    "Prompt": "İstem",
+    "Negative prompt": "Negatif İstem",
+    "Sampling method": "Örnekleme Yöntemi",
+    "Sampling steps": "Örnekleme Adımları",
+    "Schedule type": "Zamanlama Türü",
+    "Width": "Genişlik",
+    "Height": "Yükseklik",
+    "Batch count": "Seri Sayısı",
+    "Batch size": "Seri Boyutu",
+    "CFG Scale": "CFG Ölçeği",
+    "Seed": "Tohum",
+    "Extra": "Ekstra",
+    "Variation seed": "Varyasyon Tohumu",
+    "Variation strength": "Varyasyon Gücü",
+    "Resize seed from width": "Tohum için Genişlik",
+    "Resize seed from height": "Tohum için Yükseklik",
+    "Restore faces": "Yüzleri Onar",
+    "Tiling": "Döşeme",
+    "Highres. fix": "Yüksek Çözünürlük Düzeltmesi",
+    "Upscaler": "Büyütücü",
+    "Hires steps": "Yüksek Çözünürlük Adımları",
+    "Upscale by": "Büyütme Oranı",
+    "Resize to": "Boyuta Yeniden Boyutlandır",
+    "Resize by": "Oranla Yeniden Boyutlandır",
+    "Denoising strength": "Gürültü Giderme Gücü",
+    "Hires checkpoint": "Yüksek Çözünürlük Kontrol Noktası",
+    "Hires sampler": "Yüksek Çözünürlük Örnekleyicisi",
+    "Hires schedule type": "Yüksek Çözünürlük Zamanlama Türü",
+    "Hires prompt": "Yüksek Çözünürlük İstemi",
+    "Hires negative prompt": "Yüksek Çözünürlük Negatif İstemi",
+    "Hires upscale": "Yüksek Çözünürlük Büyütme",
+    "Hires upscaler": "Yüksek Çözünürlük Büyütücüsü",
+    "Hires resize": "Yüksek Çözünürlük Yeniden Boyutlandırma",
+
+    "Styles": "Stiller",
+    "Apply styles": "Stilleri Uygula",
+    "Edit styles": "Stilleri Düzenle",
+    "Create new style": "Yeni Stil Oluştur",
+    "Style name": "Stil Adı",
+    "Save current as style": "Mevcut Stili Kaydet",
+    "Move style to the top": "Stili Yukarı Taşı",
+    "Make extra networks visible for": "Ekstra ağları görünür yap:",
+    "Show/hide extra networks": "Ekstra Ağları Göster/Gizle",
+
+    "Script": "Betik",
+    "Script arguments": "Betik Argümanları",
+
+    "Send to txt2img": "Metinden Görsele Gönder",
+    "Send to img2img": "Görselden Görsele Gönder",
+    "Send to inpaint": "Tamamlamaya Gönder",
+    "Send to extras": "Ekstralara Gönder",
+    "Open folder": "Klasörü Aç",
+    "Save all": "Hepsini Kaydet",
+    "Zip": "Sıkıştır",
+    "PNG Info": "PNG Bilgisi",
+
+    "Interrogate CLIP": "CLIP ile Sorgula",
+    "Interrogate DeepBooru": "DeepBooru ile Sorgula",
+
+    "Resize mode": "Yeniden Boyutlandırma Modu",
+    "Just resize": "Sadece Yeniden Boyutlandır",
+    "Crop and resize": "Kırp ve Yeniden Boyutlandır",
+    "Resize and fill": "Yeniden Boyutlandır ve Doldur",
+    "Just resize (latent upscale)": "Sadece Yeniden Boyutlandır (Latent Büyütme)",
+
+    "Sketch": "Eskiz",
+    "Inpaint": "Tamamla",
+    "Inpaint sketch": "Eskiz Tamamla",
+    "Inpaint upload": "Yükleyerek Tamamla",
+    "Batch": "Toplu İşlem",
+    "From directory": "Dizinden",
+
+    "Image for img2img": "Görselden Görsel için Görsel",
+    "Image for inpainting with mask": "Maskeli Tamamlama için Görsel",
+    "Color sketch inpainting": "Renkli Eskiz Tamamlama",
+    "Mask": "Maske",
+
+    "Mask blur": "Maske Bulanıklığı",
+    "Mask transparency": "Maske Saydamlığı",
+    "Mask mode": "Maske Modu",
+    "Inpaint masked": "Maskelenenları Tamamla",
+    "Inpaint not masked": "Maskelenmeyenleri Tamamla",
+    "Masked content": "Maskeli İçerik",
+    "fill": "Doldur",
+    "original": "Orijinal",
+    "latent noise": "Latent Gürültü",
+    "latent nothing": "Latent Boş",
+    "Inpaint area": "Tamamlama Alanı",
+    "Whole picture": "Tüm Görsel",
+    "Only masked": "Sadece Maskeli",
+    "Only masked padding, pixels": "Sadece Maskeli Dolgu (piksel)",
+
+    "Input directory": "Giriş Dizini",
+    "Output directory": "Çıkış Dizini",
+    "Inpaint batch mask directory (required for inpaint batch processing only)": "Toplu Tamamlama Maske Dizini (sadece toplu tamamlama için gerekli)",
+    "Process images in a directory on the same machine where the server is running.": "Sunucunun çalıştığı makinedeki bir dizindeki görselleri işle.",
+    "Use an empty output directory to save pictures normally instead of writing to the output directory.": "Çıkış dizinine yazmak yerine görselleri normal kaydetmek için boş bir çıkış dizini kullan.",
+    "Add inpaint batch mask directory to enable inpaint batch processing.": "Toplu tamamlama işlemini etkinleştirmek için toplu tamamlama maske dizini ekle.",
+    "Files": "Dosyalar",
+    "PNG info": "PNG Bilgisi",
+    "Append png info to prompts": "PNG bilgisini istemlere ekle",
+    "PNG info directory": "PNG Bilgisi Dizini",
+    "Leave empty to use input directory": "Giriş dizinini kullanmak için boş bırak",
+    "Parameters to take from png info": "PNG bilgisinden alınacak parametreler",
+    "Prompts from png info will be appended to prompts set in ui.": "PNG bilgisinden gelen istemler, arayüzdeki istemlere eklenir.",
+
+    "Scale": "Ölçek",
+    "Upscale": "Büyüt",
+    "Single Image": "Tek Görsel",
+    "Batch Process": "Toplu İşlem",
+    "Batch from Directory": "Dizinden Toplu İşlem",
+    "Source": "Kaynak",
+
+    "Apply settings": "Ayarları Uygula",
+    "Reload UI": "Arayüzü Yenile",
+    "Defaults": "Varsayılanlar",
+    "Show all pages": "Tüm sayfaları göster",
+    "Hide all pages": "Tüm sayfaları gizle",
+
+    "Install from URL": "URL'den Kur",
+    "Available": "Mevcut",
+    "Installed": "Kurulu",
+    "Install": "Kur",
+    "Apply and restart UI": "Uygula ve Arayüzü Yeniden Başlat",
+    "Check for updates": "Güncellemeleri Kontrol Et",
+    "Disable all extensions": "Tüm Uzantıları Devre Dışı Bırak",
+    "Enable all extensions": "Tüm Uzantıları Etkinleştir",
+    "Update": "Güncelle",
+    "Enabled": "Etkin",
+    "Disabled": "Devre Dışı",
+    "Extension": "Uzantı",
+    "URL": "URL",
+    "Branch": "Dal",
+    "Version": "Sürüm",
+    "Date": "Tarih",
+    "Commit": "Commit",
+    "Status": "Durum",
+    "Action": "İşlem",
+
+    "Checkpoints": "Kontrol Noktaları",
+    "Textual Inversion": "Metinsel Ters Çevirme",
+    "Hypernetworks": "Hiper Ağlar",
+    "LoRA": "LoRA",
+    "LyCORIS": "LyCORIS",
+
+    "Name": "Ad",
+    "Initialization text": "Başlangıç Metni",
+    "Number of vectors per token": "Belirteç Başına Vektör Sayısı",
+    "Overwrite Old Embedding": "Eski Gömmeyi Üzerine Yaz",
+    "Create embedding": "Gömme Oluştur",
+    "Modules": "Modüller",
+    "Enter hypernetwork layer structure": "Hiper Ağ Katman Yapısını Girin",
+    "Select activation function of hypernetwork. Recommended : Swish / Linear(none)": "Hiper Ağ Etkinleştirme Fonksiyonunu Seçin. Önerilen: Swish / Doğrusal (yok)",
+    "Select Layer weights initialization. Recommended: Kaiming for relu-like, Xavier for sigmoid-like, Normal otherwise": "Katman Ağırlık Başlatmasını Seçin. Önerilen: relu-benzeri için Kaiming, sigmoid-benzeri için Xavier, diğerleri için Normal",
+    "Add layer normalization": "Katman Normalizasyonu Ekle",
+    "Use dropout": "Dropout Kullan",
+    "Enter hypernetwork Dropout structure (or empty). Recommended : 0~0.35 incrementing sequence: 0, 0.05, 0.15": "Hiper Ağ Dropout yapısını girin (ya da boş bırakın). Önerilen: 0~0.35 artan dizi: 0, 0.05, 0.15",
+    "Overwrite Old Hypernetwork": "Eski Hiper Ağı Üzerine Yaz",
+    "Create hypernetwork": "Hiper Ağ Oluştur",
+    "Embedding": "Gömme",
+    "Hypernetwork": "Hiper Ağ",
+    "Embedding Learning rate": "Gömme Öğrenme Hızı",
+    "Hypernetwork Learning rate": "Hiper Ağ Öğrenme Hızı",
+    "Gradient Clipping": "Gradyan Kırpma",
+    "Gradient clip value": "Gradyan Kırpma Değeri",
+    "Gradient accumulation steps": "Gradyan Biriktirme Adımları",
+    "Dataset directory": "Veri Seti Dizini",
+    "Path to directory with input images": "Giriş görselleri dizininin yolu",
+    "Log directory": "Günlük Dizini",
+    "Path to directory where to write outputs": "Çıktıların yazılacağı dizinin yolu",
+    "Prompt template": "İstem Şablonu",
+    "Do not resize images": "Görselleri Yeniden Boyutlandırma",
+    "Max steps": "Maksimum Adım",
+    "Save an image to log directory every N steps, 0 to disable": "Her N adımda günlük dizinine görsel kaydet, 0 = devre dışı",
+    "Save a copy of embedding to log directory every N steps, 0 to disable": "Her N adımda gömme kopyası kaydet, 0 = devre dışı",
+    "Use PNG alpha channel as loss weight": "PNG alfa kanalını kayıp ağırlığı olarak kullan",
+    "Save images with embedding in PNG chunks": "Görselleri gömme ile birlikte PNG bloklarında kaydet",
+    "Read parameters (prompt, etc...) from txt2img tab when making previews": "Önizleme yaparken parametreleri Metinden Görsel sekmesinden oku",
+    "Shuffle tags by ',' when creating prompts.": "İstem oluştururken etiketleri ',' ile karıştır.",
+    "Drop out tags when creating prompts.": "İstem oluştururken etiketleri düşür.",
+    "Choose latent sampling method": "Latent örnekleme yöntemini seçin",
+    "once": "Bir kez",
+    "deterministic": "Belirleyici",
+    "random": "Rastgele",
+    "Train Embedding": "Gömme Eğit",
+    "Train Hypernetwork": "Hiper Ağ Eğit",
+    "Output": "Çıktı",
+
+    "See wiki for detailed explanation.": "Ayrıntılı açıklama için wiki'ye bakın.",
+    "Train an embedding or Hypernetwork; you must specify a directory with a set of 1:1 ratio images": "Bir gömme veya Hiper Ağ eğitin; 1:1 oranındaki görsellerden oluşan bir dizin belirtmeniz gerekir",
+
+    "Checkpoint Merger": "Model Birleştirici",
+    "Primary model (A)": "Birincil Model (A)",
+    "Secondary model (B)": "İkincil Model (B)",
+    "Tertiary model (C)": "Üçüncü Model (C)",
+    "Multiplier (M) - set to 0 to get model A": "Çarpan (M) - Model A için 0 olarak ayarla",
+    "Interpolation Method": "Enterpolasyon Yöntemi",
+    "Weighted sum": "Ağırlıklı Toplam",
+    "Add difference": "Fark Ekle",
+    "No interpolation": "Enterpolasyon Yok",
+    "Save as": "Farklı Kaydet",
+    "Custom Name (Optional)": "Özel Ad (İsteğe Bağlı)",
+    "Checkpoint format": "Kontrol Noktası Formatı",
+    "Save metadata": "Meta Veri Kaydet",
+    "Copy config from": "Yapılandırmayı Kopyala",
+    "Bake in VAE": "VAE Dahil Et",
+    "Discard weights with matching name": "Eşleşen Adlı Ağırlıkları At",
+    "Run": "Çalıştır",
+    "Merge!": "Birleştir!",
+
+    "Source": "Kaynak",
+    "Result": "Sonuç",
+
+    "Stable Diffusion checkpoint": "Stable Diffusion Kontrol Noktası",
+    "VAE": "VAE",
+    "CLIP skip": "CLIP Atlama",
+    "Token merging ratio": "Belirteç Birleştirme Oranı",
+    "Emphasis mode": "Vurgu Modu",
+
+    "Copy image to:": "Görseli Kopyala:",
+    "Disabled when launched with --hide-ui-dir-config.": "--hide-ui-dir-config ile başlatıldığında devre dışı.",
+
+    "Open for Settings": "Ayarlar için Aç",
+    "Generation": "Oluşturma",
+
+    "Switch width/height": "Genişlik/Yükseklik Değiştir",
+    "Auto detect size from img2img": "Görselden Görsele'den boyutu otomatik algıla",
+
+    "Use same sampler": "Aynı Örnekleyiciyi Kullan",
+    "Use same checkpoint": "Aynı Kontrol Noktasını Kullan",
+    "Use same scheduler": "Aynı Zamanlayıcıyı Kullan",
+
+    "Model": "Model",
+    "VAE model": "VAE Modeli",
+    "Token counter": "Belirteç Sayacı",
+
+    "Prompt": "İstem",
+    "Negative prompt": "Negatif İstem",
+    "Seed": "Tohum",
+    "CFG scale": "CFG Ölçeği",
+    "Sampler": "Örnekleyici",
+    "Steps": "Adımlar",
+    "Model hash": "Model Hash'i",
+
+    "Textual Inversion": "Metinsel Ters Çevirme",
+    "textual inversion": "metinsel ters çevirme",
+
+    "Send": "Gönder",
+
+    "Startup profile": "Başlangıç Profili",
+
+    "img2img": "Görselden Görsel",
+
+    "Show/hide extra networks": "Ekstra Ağları Göster/Gizle",
+
+    "Checkpoint": "Kontrol Noktası",
+    "Sampling": "Örnekleme",
+    "img2img/inpaint": "Görselden Görsel/Tamamla",
+    "Hotkeys": "Kısayol Tuşları",
+
+    "Face restoration": "Yüz Onarma",
+    "System": "Sistem",
+    "Training": "Eğitim",
+    "Stable Diffusion": "Stable Diffusion",
+    "Upscaling": "Büyütme",
+    "VAE": "VAE",
+    "UI": "Arayüz",
+    "Infotext": "Bilgi Metni",
+    "Live previews": "Canlı Önizlemeler",
+    "Sampler parameters": "Örnekleyici Parametreleri",
+    "Postprocessing": "Son İşlem",
+    "Compatibility": "Uyumluluk",
+    "Interrogate": "Sorgula",
+
+    "Apply settings": "Ayarları Uygula",
+    "Reload UI": "Arayüzü Yenile",
+    "Restart UI": "Arayüzü Yeniden Başlat",
+
+    "Defaults": "Varsayılanlar",
+    "View in browser": "Tarayıcıda Görüntüle",
+    "Write to UI config": "Arayüz Yapılandırmasına Yaz",
+    "Read from UI config": "Arayüz Yapılandırmasından Oku",
+    "Write to defaults": "Varsayılanlara Yaz",
+
+    "Show/hide dirs for models in the card view": "Kart görünümünde model dizinlerini göster/gizle",
+
+    "Save current as style": "Mevcut İstemi Stil Olarak Kaydet",
+
+    "Create new style": "Yeni Stil Oluştur",
+    "Style name": "Stil Adı",
+    "Style prompt": "Stil İstemi",
+    "Style negative prompt": "Stil Negatif İstemi",
+
+    "QuickSettings list": "Hızlı Ayarlar Listesi",
+    "Localization": "Yerelleştirme",
+    "Show progressbar": "İlerleme Çubuğunu Göster",
+    "Show image creation progress every N frames": "Her N karede görsel oluşturma ilerlemesini göster",
+    "Show previews of all images generated in a batch as a grid": "Toplu işlemde oluşturulan tüm görsellerin önizlemesini ızgara olarak göster",
+    "Font for image grids that have text": "Metin içeren görsel ızgaraları için yazı tipi",
+    "Enable full page image viewer": "Tam sayfa görsel görüntüleyiciyi etkinleştir",
+
+    "Notification audio": "Bildirim Sesi",
+    "Compact prompt box": "Kompakt İstem Kutusu",
+
+    "Download localization template": "Yerelleştirme Şablonunu İndir",
+
+    "Tab order": "Sekme Sırası",
+
+    "Return to default tab after generation": "Oluşturma sonrası varsayılan sekmeye dön",
+
+    "Hide tabs": "Sekmeleri Gizle",
+
+    "Gallery columns": "Galeri Sütunları",
+    "Gallery rows": "Galeri Satırları",
+
+    "Do not show any images in the web UI": "Web arayüzünde hiçbir görsel gösterme",
+    "Show generated images in the web UI": "Oluşturulan görselleri web arayüzünde göster",
+
+    "Consecutive images to keep in the gallery": "Galeride tutulacak ardışık görsel sayısı",
+
+    "Send extras results to img2img": "Ekstra sonuçları Görselden Görsele gönder",
+    "Send extras results to txt2img": "Ekstra sonuçları Metinden Görsele gönder",
+
+    "Extras/postprocessing pass to run after the img2img pass if img2img is enabled": "img2img etkinse img2img geçişinden sonra çalıştırılacak ekstra/son işlem geçişi",
+
+    "Show checkboxes in the style editing dialog": "Stil düzenleme iletişim kutusunda onay kutuları göster",
+
+    "Do not save inpainting mask": "Tamamlama maskesini kaydetme",
+
+    "Use token merging": "Belirteç birleştirmeyi kullan",
+
+    "Show image details on hover": "Fareyle üzerine gelindiğinde görsel ayrıntılarını göster",
+
+    "Enable Lora": "Lora'yı Etkinleştir",
+    "Lora": "Lora",
+
+    "Hires. fix": "Yüksek Çözünürlük Düzeltmesi",
+
+    "Copy image": "Görsel Kopyala",
+    "Copy image to clipboard": "Görseli Panoya Kopyala",
+
+    "Save image": "Görseli Kaydet",
+    "Save to": "Kaydet:",
+
+    "Archive": "Arşiv",
+
+    "Grid": "Izgara",
+    "Show grid": "Izgara Göster",
+
+    "Prompt Styles": "İstem Stilleri",
+
+    "Enabled": "Etkin",
+    "Disabled": "Devre Dışı",
+
+    "Overwrite existing files": "Mevcut dosyaların üzerine yaz",
+
+    "Selected": "Seçili",
+
+    "Load style": "Stil Yükle",
+    "Save style": "Stil Kaydet",
+    "Remove style": "Stili Kaldır",
+    "Replace current prompt with selected style": "Mevcut istemi seçili stille değiştir",
+
+    "Extra networks": "Ekstra Ağlar",
+
+    "Clear": "Temizle",
+
+    "Paste available": "Yapıştır mevcut",
+
+    "Tip: you can right-click the generate button to get alternative generate buttons.": "İpucu: alternatif oluştur düğmeleri için oluştur düğmesine sağ tıklayabilirsiniz.",
+
+    "Size": "Boyut",
+    "File size": "Dosya Boyutu",
+
+    "Image size": "Görsel Boyutu",
+
+    "Open images output directory": "Görsel çıktı dizinini aç",
+
+    "Zip and download images": "Görselleri sıkıştır ve indir",
+
+    "generation_info_button": "Oluşturma Bilgisi",
+
+    "Model": "Model",
+
+    "No checkpoint": "Kontrol noktası yok",
+
+    "Merge": "Birleştir",
+
+    "Reuse seed": "Tohumu Yeniden Kullan",
+    "Reuse last seed": "Son tohumu yeniden kullan",
+    "Set seed to -1, which will cause a new random seed to be used every time": "Tohumu -1 olarak ayarla, bu her seferinde yeni bir rastgele tohum kullanılmasına neden olur",
+    "Slightly change the current seed to create a variation": "Varyasyon oluşturmak için mevcut tohumu biraz değiştir",
+
+    "Interrupted": "Durduruldu",
+    "Skipped": "Atlandı",
+    "Loading...": "Yükleniyor...",
+    "Finishing...": "Tamamlanıyor...",
+    "Saving...": "Kaydediliyor...",
+
+    "No model selected": "Seçili model yok",
+    "Reload checkpoint": "Kontrol noktasını yeniden yükle",
+    "No VAE": "VAE Yok",
+    "Automatic": "Otomatik",
+
+    "Token counter": "Belirteç Sayacı",
+
+    "Get prompt from image": "Görselden istem al",
+
+    "Inpaint not masked": "Maskelenmeyenleri Tamamla",
+    "Inpaint masked": "Maskelenenları Tamamla",
+
+    "Show/hide": "Göster/Gizle",
+    "Show all": "Hepsini Göster",
+    "Hide all": "Hepsini Gizle",
+
+    "Options": "Seçenekler",
+    "Actions": "İşlemler",
+
+    "Save style": "Stil Kaydet",
+
+    "Checkpoint name": "Kontrol Noktası Adı",
+
+    "Image information": "Görsel Bilgisi",
+
+    "No image selected": "Seçili görsel yok",
+
+    "Preview image": "Önizleme Görseli",
+
+    "Always save all generated images": "Oluşturulan tüm görselleri her zaman kaydet",
+
+    "Images filename pattern": "Görsel dosya adı kalıbı",
+
+    "Directories": "Dizinler",
+    "Directory": "Dizin",
+    "Path": "Yol",
+
+    "Upscaling": "Büyütme",
+    "Scale factor": "Ölçek Faktörü",
+    "Upscale by factor": "Faktörle Büyüt",
+
+    "Face restoration": "Yüz Onarma",
+    "CodeFormer visibility": "CodeFormer Görünürlüğü",
+    "CodeFormer weight (0 = maximum effect, 1 = minimum effect)": "CodeFormer ağırlığı (0 = maksimum etki, 1 = minimum etki)",
+    "GFPGAN visibility": "GFPGAN Görünürlüğü",
+
+    "img2img batch": "Görselden Görsel Toplu İşlem",
+
+    "Single image": "Tek görsel",
+    "Batch process": "Toplu işlem",
+    "Batch from directory": "Dizinden toplu işlem",
+
+    "Lora networks": "Lora Ağları",
+    "No LoRAs": "LoRA Yok",
+
+    "Postprocessing": "Son İşlem",
+
+    "Order of processing": "İşleme Sırası",
+    "Do not do anything": "Hiçbir şey yapma",
+
+    "Misc": "Çeşitli",
+
+    "Reload models": "Modelleri Yeniden Yükle",
+    "No model selected": "Seçili model yok",
+    "No VAE": "VAE Yok",
+
+    "Training": "Eğitim",
+    "No style selected": "Seçili stil yok",
+    "Style name": "Stil Adı",
+
+    "Prompt": "İstem",
+    "Negative prompt": "Negatif İstem",
+
+    "Checkpoint": "Kontrol Noktası",
+    "Quicksettings list": "Hızlı Ayarlar Listesi",
+    "UI tab order": "Arayüz Sekme Sırası",
+
+    "Image output": "Görsel Çıktısı",
+    "Output": "Çıktı",
+
+    "Saving": "Kaydediliyor",
+    "Saving to a temporary file": "Geçici dosyaya kaydediliyor",
+
+    "Infotext": "Bilgi Metni",
+
+    "Open raw": "Ham olarak aç",
+
+    "Set as thumbnail": "Küçük resim olarak ayarla",
+
+    "show_footer": "Alt bilgiyi göster",
+
+    "Filename": "Dosya Adı",
+    "Width": "Genişlik",
+    "Height": "Yükseklik",
+
+    "Postprocess upscale by": "Son işlem büyütme oranı",
+    "Postprocess upscale to": "Son işlem büyütme boyutu",
+    "Postprocess crop to fit": "Son işlem sığacak şekilde kırp",
+
+    "Generation Info": "Oluşturma Bilgisi",
+
+    "Send to inpainting": "Tamamlamaya Gönder",
+
+    "Model hash": "Model Karması",
+
+    "Loras in prompt": "İstemdeki Loralar",
+
+    "Loras in negative prompt": "Negatif İstemdeki Loralar",
+
+    "Error": "Hata",
+    "Warning": "Uyarı",
+    "Info": "Bilgi",
+
+    "Close popup": "Açılır pencereyi kapat",
+
+    "Textual inversion": "Metinsel Ters Çevirme",
+
+    "Hypernetwork": "Hiper Ağ",
+
+    "LyCORIS / LoKr / LoHa": "LyCORIS / LoKr / LoHa",
+
+    "Copy to clipboard": "Panoya kopyala",
+
+    "New folder": "Yeni klasör",
+
+    "No folders": "Klasör yok",
+
+    "No files": "Dosya yok",
+
+    "Image": "Görsel",
+    "Images": "Görseller",
+
+    "Paste": "Yapıştır",
+
+    "Interrogate": "Sorgula",
+
+    "Open in viewer": "Görüntüleyicide aç",
+
+    "Download": "İndir",
+
+    "Zip and download": "Sıkıştır ve indir",
+
+    "Stop": "Durdur",
+
+    "Up": "Yukarı",
+    "Down": "Aşağı",
+    "Left": "Sol",
+    "Right": "Sağ",
+
+    "Move": "Taşı",
+    "Zoom": "Yakınlaştır",
+    "Rotate": "Döndür",
+    "Flip": "Çevir",
+
+    "Reset": "Sıfırla",
+
+    "Undo": "Geri Al",
+    "Redo": "Yinele",
+
+    "Select all": "Hepsini seç",
+    "Deselect all": "Seçimi kaldır",
+
+    "Selected images": "Seçili görseller",
+
+    "Configuration": "Yapılandırma",
+
+    "User": "Kullanıcı",
+
+    "Loading checkpoint...": "Kontrol noktası yükleniyor...",
+
+    "Sampling": "Örnekleme",
+
+    "Generate at full resolution": "Tam çözünürlükte oluştur",
+    "Generate at 512x512 and hires.fix upscale to target resolution": "512x512'de oluştur ve yüksek çözünürlük düzeltmesiyle hedef çözünürlüğe büyüt",
+
+    "Switch to hires.fix": "Yüksek çözünürlük düzeltmesine geç",
+    "Switch to img2img processing": "Görselden görsel işlemeye geç",
+
+    "Generate": "Oluştur",
+    "Interrupt": "Durdur",
+    "Skip": "Atla",
+
+    "Upscale before restoring faces": "Yüzleri onarmadan önce büyüt",
+    "Upscale": "Büyüt",
+    "Restore faces": "Yüzleri Onar",
+
+    "Extra upscale": "Ekstra Büyütme",
+
+    "Use upscaler": "Büyütücü kullan",
+
+    "Extras": "Ekstralar",
+
+    "Upscale 1": "Büyütme 1",
+    "Upscale 2": "Büyütme 2",
+    "Upscaler 1": "Büyütücü 1",
+    "Upscaler 2": "Büyütücü 2",
+    "Upscaler 1 visibility": "Büyütücü 1 Görünürlüğü",
+    "Upscaler 2 visibility": "Büyütücü 2 Görünürlüğü",
+
+    "GFPGAN visibility": "GFPGAN Görünürlüğü",
+    "CodeFormer visibility": "CodeFormer Görünürlüğü",
+    "CodeFormer weight (0 = maximum effect, 1 = minimum effect)": "CodeFormer ağırlığı (0 = maksimum etki, 1 = minimum etki)",
+
+    "Crop to fit": "Sığacak şekilde kırp",
+
+    "Input directory": "Giriş Dizini",
+    "Output directory": "Çıkış Dizini",
+
+    "Show result images": "Sonuç görsellerini göster",
+
+    "Advanced options": "Gelişmiş seçenekler",
+
+    "Open output directory": "Çıktı dizinini aç",
+
+    "Process": "İşle",
+
+    "Save original": "Orijinali kaydet",
+
+    "PNG info chunk": "PNG bilgi bloğu",
+
+    "PNG Info": "PNG Bilgisi",
+
+    "No image selected": "Seçili görsel yok",
+
+    "Send to txt2img": "Metinden Görsele Gönder",
+    "Send to img2img": "Görselden Görsele Gönder",
+    "Send to inpaint": "Tamamlamaya Gönder",
+    "Send to extras": "Ekstralara Gönder",
+
+    "Loras in prompt": "İstemdeki Loralar",
+
+    "Checkpoint hash": "Kontrol Noktası Karması",
+
+    "Apply and restart UI": "Uygula ve Arayüzü Yeniden Başlat",
+    "Restart UI": "Arayüzü Yeniden Başlat",
+
+    "Extension tag filter": "Uzantı etiket filtresi",
+    "Extension tags": "Uzantı Etiketleri",
+    "script": "betik",
+    "ads": "reklam",
+    "localization": "yerelleştirme",
+    "installed": "kurulu",
+
+    "Hide extensions with tags": "Etiketli uzantıları gizle",
+    "Show extensions with tags": "Etiketli uzantıları göster",
+
+    "Sort by": "Sırala",
+    "stars": "yıldızlar",
+    "name": "ad",
+    "newest first": "en yeni önce",
+    "oldest first": "en eski önce",
+    "most stars first": "en çok yıldız önce",
+    "fewest stars first": "en az yıldız önce",
+    "most recently updated first": "en son güncellenen önce",
+    "least recently updated first": "en az güncellenen önce",
+    "internal order": "dahili sıra",
+
+    "Filter by extension name": "Uzantı adına göre filtrele",
+
+    "Load from:": "Şuradan yükle:",
+    "None": "Yok",
+
+    "Do not load more than this number of extensions in one go to speed up loading.": "Yüklemeyi hızlandırmak için bir seferde bu sayıdan fazla uzantı yükleme.",
+
+    "Enable": "Etkinleştir",
+    "Disable": "Devre Dışı Bırak",
+
+    "Installed": "Kurulu",
+    "Not installed": "Kurulu Değil",
+    "Install": "Kur",
+
+    "Reload available extensions list": "Mevcut uzantı listesini yenile",
+
+    "Extension name": "Uzantı Adı",
+    "Description": "Açıklama",
+    "Stars": "Yıldızlar",
+    "Last update": "Son Güncelleme",
+    "Tags": "Etiketler",
+
+    "Extension installed": "Uzantı kuruldu",
+    "Extension failed to install": "Uzantı kurulamadı",
+
+    "URL for extension's git repository": "Uzantının git deposunun URL'si",
+    "Specific commit hash or branch for extension install. Leave empty for latest.": "Uzantı kurulumu için belirli commit karması veya dal. En son için boş bırakın.",
+    "Install from URL": "URL'den Kur",
+
+    "Disable all extensions": "Tüm Uzantıları Devre Dışı Bırak",
+    "Enable all extensions": "Tüm Uzantıları Etkinleştir",
+    "Disable all extensions except built-in": "Dahili uzantılar hariç tüm uzantıları devre dışı bırak",
+
+    "Check for updates": "Güncellemeleri Kontrol Et",
+    "Check for updates (all extensions)": "Güncellemeleri kontrol et (tüm uzantılar)",
+
+    "Apply and restart UI": "Uygula ve Arayüzü Yeniden Başlat",
+
+    "Search...": "Ara...",
+
+    "Use Karras sigmas": "Karras sigmalarını kullan",
+    "Always discard next-to-last sigma": "Her zaman sondan bir önceki sigmayı at",
+
+    "Token merging ratio": "Belirteç Birleştirme Oranı",
+    "Token merging ratio for high-res pass": "Yüksek çözünürlük geçişi için belirteç birleştirme oranı",
+
+    "Emphasis mode": "Vurgu Modu",
+    "Original": "Orijinal",
+
+    "VAE encoder tile size": "VAE kodlayıcı döşeme boyutu",
+    "VAE decoder tile size": "VAE çözücü döşeme boyutu",
+    "Size of the overlap for VAE tiled encoding": "VAE döşemeli kodlama için örtüşme boyutu",
+    "Size of the overlap for VAE tiled decoding": "VAE döşemeli çözme için örtüşme boyutu",
+
+    "FP32 VAE": "FP32 VAE",
+    "Use full precision for VAE": "VAE için tam hassasiyet kullan",
+
+    "SD Model": "SD Modeli",
+    "VAE Model": "VAE Modeli",
+
+    "Model loading": "Model Yükleme",
+    "CLIP": "CLIP",
+    "Optimization": "Optimizasyon",
+    "Compatibility": "Uyumluluk",
+
+    "Clip skip": "CLIP Atlama",
+
+    "Always use SDXL refiner when loading SDXL models": "SDXL modelleri yüklerken her zaman SDXL iyileştiricisini kullan",
+
+    "Memory efficient attention": "Bellek verimli dikkat",
+
+    "upcast cross attention layer to float32": "çapraz dikkat katmanını float32'ye dönüştür",
+
+    "Check hash of checkpoint before loading it": "Yüklemeden önce kontrol noktası karmasını kontrol et",
+    "Cache loaded models": "Yüklenen modelleri önbelleğe al",
+    "Number of models that can be cached in RAM": "RAM'de önbelleğe alınabilecek model sayısı",
+    "Only load VAE when needed": "VAE'yi sadece gerektiğinde yükle",
+
+    "Codeformer": "Codeformer",
+    "GFPGAN": "GFPGAN",
+
+    "Upscaler for img2img": "Görselden Görsel için Büyütücü",
+    "Nearest": "En Yakın",
+    "Bilinear": "Bilineer",
+    "Bicubic": "Bikübik",
+    "Bislerp": "Bislerp",
+
+    "Resize mode for img2img": "Görselden Görsel Yeniden Boyutlandırma Modu",
+
+    "With img2img, do exactly the amount of steps the slider specifies": "Görselden Görsel ile kaydırıcının belirttiği adım sayısını tam olarak uygula",
+
+    "Mask apply to": "Maske Uygula:",
+    "Whole picture": "Tüm Görsel",
+    "Only masked area": "Sadece Maskeli Alan",
+
+    "Use fill for inpaint": "Tamamlama için doldur kullan",
+    "Use original for inpaint": "Tamamlama için orijinal kullan",
+
+    "Padding": "Dolgu",
+
+    "Inpaint at full resolution padding, pixels": "Tam çözünürlükte tamamlama dolgusu (piksel)",
+
+    "Saving images": "Görseller kaydediliyor",
+
+    "JPEG quality": "JPEG kalitesi",
+    "WebP lossless": "WebP kayıpsız",
+    "WebP quality": "WebP kalitesi",
+    "Export for 4chan": "4chan için dışa aktar",
+    "Maximum jpeg/webp width or height for saving": "Kaydetme için maksimum jpeg/webp genişliği veya yüksekliği",
+
+    "Use original name for output filename during batch process": "Toplu işlem sırasında çıktı dosya adı için orijinal adı kullan",
+    "Use the first embedding name in the filename": "Dosya adında ilk gömme adını kullan",
+    "Use the first lora name in the filename": "Dosya adında ilk lora adını kullan",
+
+    "Save images with watermark": "Görselleri filigranla kaydet",
+
+    "Always save all generated images": "Oluşturulan tüm görselleri her zaman kaydet",
+    "Save images when using img2img": "Görselden görsel kullanırken görselleri kaydet",
+    "Images filename pattern": "Görsel dosya adı kalıbı",
+    "Directory name pattern": "Dizin adı kalıbı",
+    "Max prompt words": "Maksimum istem kelimesi",
+
+    "Create subdirectory for each day": "Her gün için alt dizin oluştur",
+    "Create subdirectory for each job": "Her iş için alt dizin oluştur",
+
+    "Save a copy of image before doing face restoration": "Yüz onarma yapmadan önce görselin bir kopyasını kaydet",
+    "Save a copy of image before applying color correction to img2img results": "Görselden görsel sonuçlarına renk düzeltmesi uygulamadan önce görselin bir kopyasını kaydet",
+    "Save images before highres fix is applied": "Yüksek çözünürlük düzeltmesi uygulanmadan önce görselleri kaydet",
+
+    "Saving to a temporary file": "Geçici dosyaya kaydediliyor",
+
+    "Grid": "Izgara",
+    "Save grid": "Izgara Kaydet",
+    "Grid format": "Izgara Formatı",
+    "Do not save grids consisting of one picture": "Tek görselten oluşan ızgaraları kaydetme",
+    "Prevent empty spots in the grid (when determined rows/columns count is greater than the number of images)": "Izgarada boş spot bırakma (belirlenen satır/sütun sayısı görsel sayısından büyük olduğunda)",
+    "Grid filename pattern": "Izgara dosya adı kalıbı",
+    "Grid images to file before clearing VRAM": "VRAM'i temizlemeden önce ızgara görsellerini dosyaya yaz",
+    "Grid line color": "Izgara çizgi rengi",
+    "Grid line width": "Izgara çizgi genişliği",
+
+    "Live preview": "Canlı Önizleme",
+    "Show live preview of the created image": "Oluşturulan görselin canlı önizlemesini göster",
+    "Preview method": "Önizleme Yöntemi",
+    "Approx NN": "Yaklaşık NN",
+    "Approx cheap": "Yaklaşık ucuz",
+    "Full": "Tam",
+    "TAESD": "TAESD",
+
+    "Live preview display period": "Canlı önizleme görüntüleme periyodu",
+    "Show live preview image every N sampling steps": "Her N örnekleme adımında canlı önizleme görseli göster",
+    "Simultaneously generate images for all inner loops": "Tüm iç döngüler için eş zamanlı görsel oluştur",
+    "Live preview in full page image viewer": "Tam sayfa görsel görüntüleyicide canlı önizleme",
+
+    "Display: ": "Görüntüle: ",
+    "Progress bar": "İlerleme Çubuğu",
+    "Full page image viewer": "Tam Sayfa Görsel Görüntüleyici",
+    "Nothing": "Hiçbir şey",
+
+    "Enable advanced features for hires fix: separate prompts, additional networks support": "Yüksek çözünürlük düzeltmesi için gelişmiş özellikleri etkinleştir: ayrı istemler, ek ağ desteği",
+
+    "Extra noise for img2img": "Görselden görsel için ekstra gürültü",
+    "Noise multiplier for img2img": "Görselden görsel için gürültü çarpanı",
+
+    "Multiplier for noise added to img2img before denoising": "Gürültü gidermeden önce görselden görsele eklenen gürültü için çarpan",
+
+    "Apply color correction to img2img results to match original colors": "Orijinal renklerle eşleşmesi için görselden görsel sonuçlarına renk düzeltmesi uygula",
+
+    "With img2img, fill transparent parts of the image with this color": "Görselden görsel ile görselin saydam kısımlarını bu renkle doldur",
+
+    "Pad prompt/negative prompt to be multiple of 4": "İstem/negatif istemi 4'ün katı olacak şekilde doldur",
+
+    "Interrogate: use artists from artist.csv": "Sorgulama: artist.csv'deki sanatçıları kullan",
+    "Interrogate: use flavors": "Sorgulama: tatları kullan",
+    "Interrogate: use mediums": "Sorgulama: ortamları kullan",
+    "Interrogate: use movements": "Sorgulama: hareketleri kullan",
+    "Interrogate: use trending tags": "Sorgulama: trend etiketleri kullan",
+    "Interrogate: include ranks of model tags as a penalty to their influence": "Sorgulama: model etiketlerinin sıralamasını etkileri üzerinde ceza olarak dahil et",
+    "Interrogate: num_beams for BLIP": "Sorgulama: BLIP için num_beams",
+    "Interrogate: minimum description length (excluding artists, etc..": "Sorgulama: minimum açıklama uzunluğu (sanatçılar vb. hariç)",
+    "Interrogate: maximum description length": "Sorgulama: maksimum açıklama uzunluğu",
+    "Interrogate: maximum number of lines in text file (0 = unlimited)": "Sorgulama: metin dosyasında maksimum satır sayısı (0 = sınırsız)",
+
+    "Width of image for CLIP interrogation": "CLIP sorgulaması için görsel genişliği",
+    "Height of image for CLIP interrogation": "CLIP sorgulaması için görsel yüksekliği",
+    "Unload CLIP model when doing interrogation": "Sorgulama yaparken CLIP modelini kaldır",
+
+    "CLIP model for txt2img": "txt2img için CLIP modeli",
+    "CLIP model for img2img": "img2img için CLIP modeli",
+
+    "Sampler in the first pass and hires. fix passes if hires sampler is set to 'Use same sampler'": "İlk geçişte ve yüksek çözünürlük düzeltmesi geçişlerinde örnekleyici (yüksek çözünürlük örnekleyicisi 'Aynı örnekleyiciyi kullan' olarak ayarlanmışsa)",
+
+    "Sampler for hires fix": "Yüksek çözünürlük düzeltmesi için örnekleyici",
+
+    "Restrict the denoising strength to defined range": "Gürültü giderme gücünü tanımlanan aralıkla sınırlandır",
+    "Minimum value for denoising strength": "Gürültü giderme gücü için minimum değer",
+    "Maximum value for denoising strength": "Gürültü giderme gücü için maksimum değer",
+
+    "Always save all generated images without displaying a confirmation dialog": "Onay iletişim kutusu göstermeden oluşturulan tüm görselleri her zaman kaydet",
+
+    "When reading generation parameters from text into UI (from PNG info or pasted text), do not load styles from the list of saved styles, only parameter values": "Metinden arayüze oluşturma parametreleri okurken (PNG bilgisinden veya yapıştırılan metinden), kayıtlı stillerin listesinden stilleri yükleme, yalnızca parametre değerlerini yükle",
+
+    "Do not use precision of sampler for VAE decoding": "VAE çözme için örnekleyici hassasiyetini kullanma",
+
+    "Restore faces model": "Yüz Onarma Modeli",
+    "GFPGAN": "GFPGAN",
+    "CodeFormer": "CodeFormer",
+
+    "Reset to defaults": "Varsayılanlara Sıfırla",
+
+    "Launch": "Başlat",
+    "Open in browser": "Tarayıcıda Aç",
+
+    "Settings saved.": "Ayarlar kaydedildi.",
+    "Settings applied.": "Ayarlar uygulandı.",
+
+    "Restore defaults": "Varsayılanları Geri Yükle",
+
+    "Interface": "Arayüz",
+
+    "Show hidden items in extra networks tabs": "Ekstra ağlar sekmelerinde gizli öğeleri göster",
+    "Extra networks tab reloads when you switch to it": "Ekstra ağlar sekmesi geçiş yaptığınızda yeniden yüklenir",
+
+    "Allow cards to be hidden from view in extra networks tabs": "Ekstra ağlar sekmelerinde kartların görünümden gizlenmesine izin ver",
+
+    "Always display the strip with batch images below the main image": "Toplu görsel şeridini her zaman ana görselin altında göster",
+
+    "Hotkeys": "Kısayol Tuşları",
+
+    "Add a LoRA network...": "LoRA ağı ekle...",
+
+    "Enabled": "Etkin",
+
+    "Use token merging": "Belirteç birleştirmeyi kullan",
+    "Token merging ratio": "Belirteç Birleştirme Oranı",
+
+    "Token merging for txt2img": "txt2img için belirteç birleştirme",
+    "Token merging for img2img": "img2img için belirteç birleştirme",
+
+    "Use token merging": "Belirteç birleştirmeyi kullan",
+
+    "Face restoration model": "Yüz Onarma Modeli",
+
+    "Localization (requires restart)": "Yerelleştirme (yeniden başlatma gerektirir)",
+
+    "Show images in extras tab": "Ekstralar sekmesinde görselleri göster",
+
+    "Open output directory for extras": "Ekstralar için çıktı dizinini aç",
+
+    "No image selected": "Seçili görsel yok",
+
+    "Prompt": "İstem",
+
+    "Width": "Genişlik",
+    "Height": "Yükseklik",
+
+    "Resizing mode": "Yeniden Boyutlandırma Modu",
+
+    "Checkpoint name": "Kontrol Noktası Adı",
+
+    "LoRA": "LoRA",
+
+    "Prompt Styles": "İstem Stilleri",
+
+    "Show all pages": "Tüm Sayfaları Göster",
+    "Save current page": "Mevcut Sayfayı Kaydet",
+
+    "Extra networks default multiplier": "Ekstra ağlar varsayılan çarpanı",
+
+    "Extra networks card width": "Ekstra ağlar kart genişliği",
+    "Extra networks card height": "Ekstra ağlar kart yüksekliği",
+    "Extra networks card text scale": "Ekstra ağlar kart metin ölçeği",
+    "Extra networks card show description": "Ekstra ağlar kart açıklamasını göster",
+    "Extra networks add text to search images": "Ekstra ağlar görsel aramasına metin ekle",
+    "Extra networks show hidden directories": "Ekstra ağlar gizli dizinleri göster",
+
+    "Image Generation": "Görsel Oluşturma",
+
+    "Favorites": "Favoriler",
+
+    "Sort by path": "Yola göre sırala",
+    "Sort by name": "Ada göre sırala",
+    "Sort by date created (descending)": "Oluşturulma tarihine göre sırala (azalan)",
+    "Sort by date created (ascending)": "Oluşturulma tarihine göre sırala (artan)",
+    "Sort by date modified (descending)": "Değiştirilme tarihine göre sırala (azalan)",
+    "Sort by date modified (ascending)": "Değiştirilme tarihine göre sırala (artan)",
+
+    "Tree view": "Ağaç Görünümü",
+    "Card view": "Kart Görünümü",
+
+    "No preview": "Önizleme yok",
+
+    "Save as style": "Stil olarak kaydet",
+
+    "Stop generating": "Oluşturmayı durdur",
+
+    "Processing...": "İşleniyor...",
+
+    "No preview image": "Önizleme görseli yok",
+
+    "Search": "Ara",
+    "Filter by name": "Ada göre filtrele",
+    "Filter by tag": "Etikete göre filtrele",
+    "Filter by keyword": "Anahtar kelimeye göre filtrele",
+
+    "Prompt\n(Press Ctrl+Enter to generate, Alt+Enter to skip, Esc to interrupt)": "İstem\n(Oluşturmak için Ctrl+Enter, Atlamak için Alt+Enter, İptal için Esc)",
+    "Negative prompt\n(Press Ctrl+Enter to generate, Alt+Enter to skip, Esc to interrupt)": "Negatif İstem\n(Oluşturmak için Ctrl+Enter, Atlamak için Alt+Enter, İptal için Esc)",
+    
+    "Refiner": "İyileştirici",
+    "Help": "Yardım",
+
+    "Interrupting...": "Durduruluyor...",
+    "Generation will stop after finishing this image, click again to stop immediately.": "Oluşturma bu görsel bittikten sonra duracak, hemen durdurmak için tekrar tıklayın.",
+    "End generation immediately or after completing current batch": "Oluşturmayı hemen veya mevcut seriyi tamamladıktan sonra sonlandır",
+    "Stop generation of current batch and continues onto next batch": "Mevcut serinin oluşturulmasını durdur ve bir sonraki seriye geç",
+    "Interrupting generation...": "Oluşturma durduruluyor...",
+    "Right click generate forever menu": "Sürekli oluşturma menüsü için sağ tıkla",
+    "Read generation parameters from prompt or last generation if prompt is empty into user interface.": "Oluşturma parametrelerini istemden veya istem boşsa son oluşturmadan arayüze oku.",
+    "Clear prompt": "İstemi temizle",
+    "Apply all selected styles to prompts.": "Seçilen tüm stilleri istemlere uygula.",
+    "Interrogate CLIP - use CLIP neural network to create a text describing the image, and put it into the prompt field": "CLIP ile Sorgula - görseli açıklayan bir metin oluşturmak için CLIP sinir ağını kullan ve istem alanına koy",
+    "Interrogate DeepBooru - use DeepBooru neural network to create a text describing the image, and put it into the prompt field": "DeepBooru ile Sorgula - görseli açıklayan bir metin oluşturmak için DeepBooru sinir ağını kullan ve istem alanına koy",
+    "Restore progress": "İlerlemeyi geri yükle",
+
+    "Soft inpainting": "Yumuşak Tamamlama",
+    "Soft inpainting allows you to seamlessly blend original content with inpainted content according to the mask opacity.": "Yumuşak tamamlama, maske saydamlığına göre orijinal içerikle tamamlanan içeriği sorunsuz bir şekilde harmanlamanızı sağlar.",
+    "High _Mask blur_ values are recommended!": "Yüksek _Maske Bulanıklığı_ değerleri önerilir!",
+    "Schedule bias": "Zamanlama Eğilimi",
+    "Shifts when preservation of original content occurs during denoising.": "Gürültü giderme sırasında orijinal içeriğin korunmasının ne zaman gerçekleşeceğini kaydırır.",
+    "Preservation strength": "Koruma Gücü",
+    "How strongly partially masked content should be preserved.": "Kısmen maskelenmiş içeriğin ne kadar güçlü korunacağı.",
+    "Transition contrast boost": "Geçiş Kontrastı Artışı",
+    "Amplifies the contrast that may be lost in partially masked regions.": "Kısmen maskelenmiş bölgelerde kaybolabilecek kontrastı artırır.",
+    "Pixel Composite Settings": "Piksel Birleştirme Ayarları",
+    "Mask influence": "Maske Etkisi",
+    "How strongly the original mask should bias the difference threshold.": "Orijinal maskenin fark eşiğini ne kadar güçlü etkileyeceği.",
+    "Difference threshold": "Fark Eşiği",
+    "How much an image region can change before the original pixels are not blended in anymore.": "Orijinal piksellerin harmanlanması durmadan önce bir görsel bölgesinin ne kadar değişebileceği.",
+    "Difference contrast": "Fark Kontrastı",
+    "How sharp the transition should be between blended and not blended.": "Harmanlanmış ve harmanlanmamış arasındaki geçişin ne kadar keskin olması gerektiği."
+}
